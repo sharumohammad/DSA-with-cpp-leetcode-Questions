@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2249-count-the-hidden-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
