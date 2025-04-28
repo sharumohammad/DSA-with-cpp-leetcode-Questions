@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0213-house-robber-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 ## Prefix Sum
 |  |
