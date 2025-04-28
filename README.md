@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0038-count-and-say) |
 ## Breadth-First Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1500-count-largest-group) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2915-count-of-interesting-subarrays) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
