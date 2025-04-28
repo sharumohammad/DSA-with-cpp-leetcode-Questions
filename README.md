@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1500-count-largest-group) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
