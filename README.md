@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1500-count-largest-group) |
