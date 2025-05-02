@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Tree
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0038-count-and-say) |
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
+| [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
