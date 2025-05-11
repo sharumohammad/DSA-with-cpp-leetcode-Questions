@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2915-count-of-interesting-subarrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
