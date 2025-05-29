@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Two Pointers
 |  |
 | ------- |
