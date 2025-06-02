@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0213-house-robber-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
