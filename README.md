@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
