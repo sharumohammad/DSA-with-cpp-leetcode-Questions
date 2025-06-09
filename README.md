@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
