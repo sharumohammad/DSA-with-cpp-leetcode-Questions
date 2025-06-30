@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
+| [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1500-count-largest-group) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
