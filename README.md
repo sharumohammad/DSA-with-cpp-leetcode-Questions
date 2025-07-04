@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3321-type-of-triangle) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Recursion
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
