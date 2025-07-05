@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [2048-build-array-from-permutation](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
