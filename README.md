@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
