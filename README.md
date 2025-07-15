@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1489-pizza-with-3n-slices](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-pizza-with-3n-slices](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-pizza-with-3n-slices](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-pizza-with-3n-slices](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1489-pizza-with-3n-slices) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
