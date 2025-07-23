@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
