@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2915-count-of-interesting-subarrays) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0268-missing-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
