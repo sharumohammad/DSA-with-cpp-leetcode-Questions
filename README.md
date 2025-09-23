@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1500-count-largest-group) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
