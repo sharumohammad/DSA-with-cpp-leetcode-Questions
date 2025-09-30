@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1952-minimum-sideway-jumps](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1952-minimum-sideway-jumps) |
 | [2048-build-array-from-permutation](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
