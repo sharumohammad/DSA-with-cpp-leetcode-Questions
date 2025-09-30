@@ -448,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
