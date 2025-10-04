@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -459,4 +461,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
