@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0118-pascals-triangle) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0344-reverse-string) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
