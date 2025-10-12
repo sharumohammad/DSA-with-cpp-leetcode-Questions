@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
