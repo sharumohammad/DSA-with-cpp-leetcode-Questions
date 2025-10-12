@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
