@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0735-asteroid-collision](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0943-sum-of-subarray-minimums](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
