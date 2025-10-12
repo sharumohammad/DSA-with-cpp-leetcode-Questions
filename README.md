@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0868-push-dominoes](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharumohammad/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
