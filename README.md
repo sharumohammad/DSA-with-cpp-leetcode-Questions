@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sharumohammad/Leetcode-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [1008-binary-tree-cameras](https://github.com/sharumohammad/Leetcode-submissions/tree/master/1008-binary-tree-cameras) |
 ## Array
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharumohammad/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
